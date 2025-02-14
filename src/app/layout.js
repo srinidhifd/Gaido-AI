@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Gaido Form",
-  description: "Multi-step form using Next.js & Tailwind",
+  title: "Gaido AI",
+  description: "Gaido Ai form using Next.js & Tailwind for insurance",
 };
 
 export default function RootLayout({ children }) {
